@@ -1,948 +1,912 @@
 {
-  "activePatients": [
-    {
-      "patientId": "c4f5a3ef-b94c-4cb7-ba74-d455b64955a7",
-      "name": "coco",
-      "gender": "FEMALE",
-      "entryDate": "2025-12-12T12:56:27.076847",
-      "leaveDate": null,
-      "condition": "STABLE",
-      "wantsPrivateRoom": true,
-      "currentBedId": "b162c6b4-4938-48ef-afe2-baa7afc948e2",
-      "bedHistory": [
-        "d272ec3b-4354-4eab-b926-2c1832eff257",
-        "b162c6b4-4938-48ef-afe2-baa7afc948e2"
-      ],
-      "statusHistory": [
-        "Emergency Room",
-        "Private Room"
-      ]
-    }
-  ],
+  "activePatients": [],
   "recoveredPatients": [],
   "rooms": [
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "EMERGENCY_ROOM",
       "roomNumber": 1,
       "beds": [
         {
-          "bedId": "d272ec3b-4354-4eab-b926-2c1832eff257",
+          "bedId": "26037c78-3fe3-4e29-bd4a-7fed754db000",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "EMERGENCY_ROOM",
       "roomNumber": 2,
       "beds": [
         {
-          "bedId": "d9aa35b4-c074-4800-ba53-1a12b18f033a",
+          "bedId": "2ce00c81-19a1-42b6-877f-d2e5e1c2d529",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "EMERGENCY_ROOM",
       "roomNumber": 3,
       "beds": [
         {
-          "bedId": "aa19741d-c024-4569-bed1-3bfbcf2e5624",
+          "bedId": "9e6a28c0-e100-4896-b32b-6c6fce561a27",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "EMERGENCY_ROOM",
       "roomNumber": 4,
       "beds": [
         {
-          "bedId": "8889e3ea-2801-443c-b24f-14d544b79fbd",
+          "bedId": "69693b11-309c-489a-a351-3f7416ca0e64",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "EMERGENCY_ROOM",
       "roomNumber": 5,
       "beds": [
         {
-          "bedId": "27ec26b3-a0f0-4edd-a2df-cd99e4722862",
+          "bedId": "089928a6-72be-4f53-ac99-6b77f3cddd82",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 6,
       "beds": [
         {
-          "bedId": "eae170d0-25b7-480a-b0de-e1186e3aa2f4",
+          "bedId": "b0430b27-4441-4395-a9fa-057c6fac7b9c",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "ea1e136a-c4c2-43aa-973a-45225f6f85ae",
+          "bedId": "d8b9c4ea-5897-406f-8781-a2aa1ff54525",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "cf38a733-3714-4a34-b8c9-269277978b39",
+          "bedId": "fbfc6f84-56b6-4587-b468-a5f58c40a98d",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "82f9c4cd-3671-447a-a5de-d8a12e9beff6",
+          "bedId": "a9e38705-1b6a-4294-bbe4-dc0eb1a665f6",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "4ab30061-183e-4e02-a1ae-383490798389",
+          "bedId": "efa16853-3469-49f3-a179-6d7a284c7924",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "aff5b9bb-76fc-406f-b8d2-1a6aad70c41b",
+          "bedId": "7a13a7c7-5b09-46ce-90e7-95fd55c51ff5",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "a094b862-f057-4133-bfef-19e33960953e",
+          "bedId": "2698a6ee-f251-4225-b5af-9fbb35b67a64",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "5d1f22e9-dc72-48a7-9507-1b995fbf227e",
+          "bedId": "314b1eaa-a6f7-4370-86b4-6de49377c373",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "537c8c98-7564-4437-b85a-bcf9d68f0747",
+          "bedId": "3bf32283-2426-4fd2-94f8-8c0dd9a47e57",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "2bedbe2d-e380-486c-bc2c-b7dc7e64ab5a",
+          "bedId": "d237d043-3453-4845-ad0a-b3c9066963eb",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 7,
       "beds": [
         {
-          "bedId": "d2738c95-3eb0-469e-9cc3-ac2283bfd0b9",
+          "bedId": "a871599c-a2b4-4c36-9e34-06beb0c86680",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "faf4f853-5645-48de-9093-32b03d28755b",
+          "bedId": "a34caf65-56c6-47e0-8ddb-1bb71a963af9",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "7af6c412-b45d-4a80-ada8-726b325127d8",
+          "bedId": "4a512b09-5cb3-462b-9f5e-060650faf75a",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "ea020a7a-8ca4-42a2-889e-f91bbee601d1",
+          "bedId": "0feaf823-7d7c-4cd1-b2c7-1ea0fa912662",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "9b099baa-6543-454d-8167-12488d48228f",
+          "bedId": "e443ed2a-4c0b-466f-8b27-2fa3054d43a9",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "93daef1c-463a-4aa7-81c0-be6dce264e0c",
+          "bedId": "91b0918c-efa7-49fb-969d-7ea915506564",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "520f316a-9f6e-4e85-910f-cc825f77efe7",
+          "bedId": "df63912f-72b7-4a00-8935-4f2bc06fb01c",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "abfdaf26-92df-4bc5-876c-074d6d380203",
+          "bedId": "c3df6208-113f-4d94-aefe-156d757d17f5",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "c24031ff-98bf-4a63-b0aa-cf5f63dc1b62",
+          "bedId": "9cb095c4-61a3-407e-af11-23be02fc106b",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "245409b1-531c-4df7-8903-56b4a2c68380",
+          "bedId": "0cb9f128-5ed6-41e7-8d05-0ccade321866",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 8,
       "beds": [
         {
-          "bedId": "4e8b991f-14cd-401f-a69f-532911d9dd24",
+          "bedId": "723eaf35-80cf-4243-9332-8346d26a0874",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "0e8d7472-b0a8-48dd-99fd-e4512d48e39c",
+          "bedId": "ed95f3af-4060-4827-9250-0dd6effd7687",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "9b481f24-e37f-4d62-a498-88c5bc9ece0b",
+          "bedId": "b59c5414-5371-4a18-90b7-596a492c443b",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "de539e1e-5d21-4471-9dc3-f07cabc7ffea",
+          "bedId": "448839f4-f260-4132-8dbe-4e86f6092339",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "80cce872-5586-4c0b-86f2-8ff3fc10ff2a",
+          "bedId": "99b5e18a-1d06-4c81-9da1-a61f73947898",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "89fec94b-dd22-477a-b211-3a9659846c40",
+          "bedId": "072aff8f-ec7d-423c-b0cc-15366c751c56",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "2106f229-d8b4-4513-89a4-d91f4b3e9e41",
+          "bedId": "e1c3df13-4990-4ab3-b35d-6279ec50a9a9",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "a78603b4-3396-4dc3-9d7a-6007698405c0",
+          "bedId": "92acfa8c-df4e-457e-96fd-a73af2f1ca8e",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "f80cca9a-f775-414e-bb55-d0a58f07038b",
+          "bedId": "8055024a-f5c2-4164-8b10-c4e7e9941691",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "fda24654-6cb9-4c37-acce-b0a74f6cce4d",
+          "bedId": "dd8249b5-f1a3-4a5e-b5bb-87185085b8d1",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 9,
       "beds": [
         {
-          "bedId": "7cb12a5b-fd93-4ff5-8ca0-c2b3f3552d8a",
+          "bedId": "6fe09e80-6725-4bbc-bba5-b7cac0e63df0",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "0e166075-e916-46e1-bc88-68ce27cfbe94",
+          "bedId": "ed70ab42-d9c7-4cef-8d27-a2bb5d9e60c4",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "dd2e9324-1cbe-4582-8e02-2f55e2117eb5",
+          "bedId": "c75f3735-9fe9-45dc-9d65-37f57ad80e4f",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "b0092889-96c4-4ddf-b463-ca3c5909480c",
+          "bedId": "8d251ed5-9554-43e7-962e-486a7f5518fc",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "7b43357d-779b-4194-8da5-0c57387567b9",
+          "bedId": "1e3b15d3-90f4-48f4-8166-23d6b12826d1",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "75aecc2a-fcf5-476f-b503-e206b1d70e98",
+          "bedId": "a446c2c8-d71e-4257-bdf7-64ee6c7a30ef",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "25000061-4b41-494f-bb5a-2a2af610f59c",
+          "bedId": "96e6e62c-fdc8-4bda-afce-c09b6abe990e",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "6d05015a-cd02-4301-b200-a2db41889900",
+          "bedId": "4d4478d6-8f35-42e2-b777-4ae2d44e5a2d",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "a7e322b7-47fb-496f-8742-8a9b5e01b595",
+          "bedId": "54ceb520-0146-42b0-8a0c-5cc489c991ae",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "bc15afd7-f56e-4c9c-bf8d-3e55d0b2dca7",
+          "bedId": "df6a48a1-7b1d-4452-9af1-08fe5aec6918",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 10,
       "beds": [
         {
-          "bedId": "b1a1debc-27b0-4fc0-903b-83841a4f81cd",
+          "bedId": "7e0f4f25-b3a8-432b-9497-424ae6820b01",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "6d2fbb01-9f64-404a-b452-b17dc424d021",
+          "bedId": "9ab1b643-5c4c-4454-87ef-b131886e8547",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "50d0e9eb-a4b4-4e3a-97ed-40d5b01c6de8",
+          "bedId": "2c164ea2-6359-48ee-84b6-6e5a2b5b349f",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "9e400df9-c587-434f-8c5d-bd154f8719d4",
+          "bedId": "857d3c36-2fd8-4ff1-9fa8-eada6105bc03",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "bd6989ff-22e6-4401-8eb4-f43f8354df64",
+          "bedId": "ffbd1c59-533c-431d-960d-2439eb4eb509",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "10a308dd-0047-4fad-81a7-0ee7ef662efe",
+          "bedId": "e54bd11b-ee03-4572-b503-3f23bf87255c",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "6cb7c4c4-efcd-4787-8e1c-fa0a5b499143",
+          "bedId": "898571ae-a2cc-4375-bca6-2f8ec15e762a",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "0b27d33f-2c48-47f9-8d80-d7968244d878",
+          "bedId": "cc47346b-3402-4ec7-8055-9497f859f7d4",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "871e1894-dffd-4af0-b74f-6f0afa42c7f5",
+          "bedId": "5b89b5e0-0d30-4cfe-8da3-bfc601461fa5",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "f72d2bf6-f24c-45ec-b69c-f94e5f41eea5",
+          "bedId": "f0e21c35-bd41-4baa-a69f-77ab48a502a5",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 11,
       "beds": [
         {
-          "bedId": "982281e3-7357-47a0-9296-dc6d3dcc83d2",
+          "bedId": "1ccb45b9-9b3b-43f9-8a18-77ddc8424456",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "9f9e87e4-af88-4331-ac77-14401d6c8d71",
+          "bedId": "5329b74c-a914-4051-859a-1870a4a602a8",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "4976acdb-f632-496a-8969-b1b1d09a740e",
+          "bedId": "1ed00d10-d85b-4fc6-99fa-adda6155c60e",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "101041ed-bb88-481d-955a-257f085d237f",
+          "bedId": "fcdd2639-64b8-4b1c-802c-4d6b6c28e7c4",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "2ddceee5-93ce-4ad4-b91a-b8c22e0d6967",
+          "bedId": "ec657649-9a55-494f-8f85-f9b626e3b59f",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "2b293f98-9997-4d41-b17f-b176c42ba8a9",
+          "bedId": "cade41a0-65dd-45e0-9e42-dfbc40cab75a",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "fd8cc2da-8325-4288-abcc-127a07a02c49",
+          "bedId": "9d3da193-4150-446d-9985-c90a651465e8",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "9b7c853b-725b-42d0-babc-505e5fc3c063",
+          "bedId": "f35f0523-08e4-4036-ab97-1fb34240a3c4",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "64fa59ba-bb2e-48d4-aa7c-adcf712c664e",
+          "bedId": "673a86bf-3670-4631-9958-1f321db9c9d1",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "4ac8177a-719e-438e-a4bf-07440840d47a",
+          "bedId": "daf8b86c-3725-436f-b479-9f0da6508716",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 12,
       "beds": [
         {
-          "bedId": "99ba270b-815e-4b85-aae0-f0bf7ac2fa7e",
+          "bedId": "73b31366-6919-4419-b76e-a7bbbcd15798",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "2a3d6288-f74c-400b-ae57-bf36d0651f52",
+          "bedId": "bb835c6d-c530-4fb1-870c-23d0c33e37d4",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "1ea6a407-2018-4ba8-82ac-11ed66aa5f1b",
+          "bedId": "d4d59978-464e-4b04-b715-a641ed005182",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "115a9e7a-004c-4232-bd44-1d26651f5733",
+          "bedId": "a5f0322f-3c95-4ec4-a2c4-dd58ff3ea78f",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "c7661a72-b815-49c8-bf09-0ea3c4f8aa38",
+          "bedId": "909c13c1-2ece-457e-9055-e583b24f09fa",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "4430e075-5058-45ef-bce6-ed8f6eb3c145",
+          "bedId": "2188d64a-fdd6-4636-819e-160e2d7272bc",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "22106a96-f617-4d7d-8eb5-d077e6a285f6",
+          "bedId": "9a461f20-d0d9-4e22-b4d0-ad6a4d105267",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "913f54f7-d89d-4de0-9f12-f22659a01726",
+          "bedId": "87213ad0-4dd3-488d-9a2b-a77e7870df89",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "d62c4ffc-fd4a-489e-92b0-9776302f84a0",
+          "bedId": "8e3a9b3d-48c4-45d9-8dbf-65032ec78f34",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "6a1be298-3801-487c-9479-35aa4e51de08",
+          "bedId": "6b00eb88-fb84-4207-acec-f94048746fd7",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 13,
       "beds": [
         {
-          "bedId": "bcaf4a6f-7e00-4c66-aba0-2d377ebd68e9",
+          "bedId": "d5a425c8-e42b-430a-83b4-f720ef549ceb",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "f5a2edc9-0641-494f-914c-5f4db3ffb14e",
+          "bedId": "e66342ac-2d5c-47c9-befa-cbfe9d4dfa43",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "9bd3f18b-8f31-49ce-a0b5-fe60c29e4ca3",
+          "bedId": "b86eec04-5e85-45a1-b57c-86bd1d29c7c8",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "779719ba-6012-4592-abc2-3f267098b690",
+          "bedId": "fab106e3-2ee6-4827-b9a5-81390e4e2b51",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "a4aba120-43f0-4c1b-b6d0-d5fb94580af8",
+          "bedId": "b105033e-c490-4692-b818-be88ed12d33d",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "d13c6797-427c-4952-bbff-a1763369abd0",
+          "bedId": "56930966-55f1-432c-b50b-2d54ff0159a1",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "95ec688d-757e-4410-85bf-fb28f51a2e81",
+          "bedId": "0ef22904-6a52-43db-a6c1-efdc0b72ab0f",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "7efb786f-d001-42cf-9d14-80a37c070dbd",
+          "bedId": "24563a4a-3104-4f11-a4b9-01a8ecd1e816",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "335db345-0d5e-44db-a2dd-bfae48798bcb",
+          "bedId": "4326c3d8-9a4a-4151-a8ef-04a0f6e4f5dd",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "a1366c18-3d41-4582-9cb7-4a181ef32c3f",
+          "bedId": "06bddacd-feaf-4210-8f96-14bc8754b124",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 14,
       "beds": [
         {
-          "bedId": "86cdf7a1-048b-4fed-a876-d010a67fecd1",
+          "bedId": "7fcd888a-f972-44bc-b9c6-9f2abb328c4f",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "0ebd7d5e-7e3a-4d0f-9ffa-8719a797c1cf",
+          "bedId": "c7ae17bc-f272-4a04-8683-77e74790f4eb",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "60faf5c1-f9ad-4007-9a5c-ffd27c7d8234",
+          "bedId": "2ea1a914-56dc-4aeb-88bc-b21683202ab9",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "ac4fdd18-e443-4100-a21d-bb972706c4c2",
+          "bedId": "5174021c-0750-4ff6-826b-a5d85d6ed196",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "da379af3-97bc-4ecd-ab78-c8de93e3ee05",
+          "bedId": "dffd410c-16fe-4d6e-939f-7c7b9a3ae1ee",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "1032983d-d906-4b11-8977-e58ec32513fc",
+          "bedId": "82dbc877-69af-4e6a-94d4-b3d94cc7d3b7",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "efecd818-afe3-4e65-a955-0325e2d5da49",
+          "bedId": "301afcc5-e14d-4fdd-8fda-02874dd316e1",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "1130e05e-e82d-47a7-ae82-7f2707a1ce44",
+          "bedId": "7a41943e-409c-4f3f-8919-1a9910b783aa",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "a1ce553e-2feb-4b36-92c3-b3691ba873aa",
+          "bedId": "8c79afd3-9fce-45f9-ab8c-e2017b7fdeb8",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "b4db6f42-c8c1-4012-95f9-dfdaf61e0832",
+          "bedId": "17ca94f0-23bb-4bf6-87ae-1f9b85cfcd0a",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "GENERAL_ROOM",
       "roomNumber": 15,
       "beds": [
         {
-          "bedId": "fd3438f3-9587-4d62-90dd-e1cab463ced5",
+          "bedId": "30160149-a8c7-4e53-86f8-47240e3d3d38",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "268b4da4-f795-49db-a4ff-1915cdc68952",
+          "bedId": "189ccb0f-936d-49e7-ae44-46748c967551",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "4ecc6a58-ac74-4645-9608-705404a7f0a1",
+          "bedId": "4dcb5607-7497-4bc3-9a88-928282bd9aef",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "448adf25-dd8b-4ce4-b971-3ee16cf023c1",
+          "bedId": "556e7a2e-c2f5-4ce7-b026-ec71486f0e2c",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "e3e8a9fe-29db-47db-8807-8485ccd4ab1c",
+          "bedId": "73f72e1e-34bc-4fb4-a1f8-c05cde6272e2",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "e6990fcf-7ae4-4209-b26a-6521a955bcce",
+          "bedId": "e03e4ecd-5c8c-4974-be6c-f2e07929b239",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "5ecff044-4ad3-4d6e-a194-a5db1718058c",
+          "bedId": "6b47f299-85cc-486a-8e58-47e9a7a440bf",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "37eb82af-9f3b-47c3-88c4-59577caa3bdb",
+          "bedId": "5d6be367-0343-4fd4-b62a-26e72d7220f4",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "14c03710-14a5-4124-b354-5f0e0e69d97f",
+          "bedId": "7b8a310d-a469-4c29-a9a6-55ad8fc212cd",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "8c94eb41-041a-47d8-9a50-193b709f24b3",
+          "bedId": "0f592051-0446-42aa-a4b9-c43174e980ac",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "ICU_ROOM",
       "roomNumber": 21,
       "beds": [
         {
-          "bedId": "f70cbc45-1bab-4b8d-b434-e3784dfe488d",
+          "bedId": "89760cd6-6b64-46ad-9965-54414ba786c1",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "49570fc4-c837-428c-a4d8-740f2010e095",
+          "bedId": "f9ab9bd8-a897-4a55-9230-496a1f4a5e72",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "6103893b-50f0-4002-9293-d0b74db7f24a",
+          "bedId": "d0e5a130-b498-49c5-ae33-991c056048eb",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "981ce600-4e3a-458a-b3aa-de2358935d07",
+          "bedId": "93f7eea7-fa87-4924-a043-14eaa392feaa",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "e10f7de8-a98e-4b18-b5a6-b849a83f0d9a",
+          "bedId": "46755397-442c-4d07-ab93-ca67bccb1ef3",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "ICU_ROOM",
       "roomNumber": 22,
       "beds": [
         {
-          "bedId": "ba503ff7-0108-4d1d-8784-b7222d831afd",
+          "bedId": "648fec45-50d5-4f19-ad23-62f62fd04358",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "40576763-3ffe-42cc-8fc2-70ed66e846be",
+          "bedId": "e9c05853-a856-443d-bc9f-59b77af98ed0",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "851e4add-80f0-4534-a3ad-f8f1776e642e",
+          "bedId": "f5c01214-bdb4-46f7-9438-3548552729cf",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "578b7272-cb8f-4d89-9b6b-1237b9c7b73e",
+          "bedId": "751cfe0a-5489-43d1-be8b-958224ab1939",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "5606b066-ae79-4649-91fc-2f567e8cee09",
+          "bedId": "fa33bb4c-7bfc-4289-b5d5-f833f6381e03",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "ICU_ROOM",
       "roomNumber": 23,
       "beds": [
         {
-          "bedId": "98bb8a7b-390c-423e-a071-98ea5e2f2494",
+          "bedId": "b4825065-5a21-48a0-b6b3-04c1bcf79ca8",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "aa51ca94-2ed9-4f70-8e92-d64dd829f1b6",
+          "bedId": "44aef536-5849-45d6-ab8a-f14bc00a4c01",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "4a8d68ea-6c7d-470a-bbec-f34feb9c02ae",
+          "bedId": "17206745-38b5-4784-bb13-8c5cae7a3981",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "c836edd4-9696-487e-8280-9dc2d46a50f7",
+          "bedId": "8ca22e36-97fd-416c-b0d3-87c3803884ed",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "f1fd314b-bb87-416a-8b1a-1aab2aacd125",
+          "bedId": "92d1abef-00a6-414e-be64-2a333318c428",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "ICU_ROOM",
       "roomNumber": 24,
       "beds": [
         {
-          "bedId": "23c577c9-3fe8-450f-b116-355aa2fc0c68",
+          "bedId": "9ca4f856-70e8-47f0-9416-92d294a80dbe",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "4c3b6483-294c-4df0-9a2d-3dc382e54f6a",
+          "bedId": "0d7c05f4-48c9-4246-bcee-5787a22b490c",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "92aaa8ba-a067-4aa9-aa0a-a2e9d419ea66",
+          "bedId": "d552c206-338a-43e4-a6a6-687c1b92b7f2",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "99bfc5af-5136-4093-bb8d-80269f64fc5b",
+          "bedId": "4b5ab086-a99d-4bfb-9a75-82697d99434a",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "b9a42cfc-2b3d-47bf-87a9-d772c3fd968d",
+          "bedId": "16778b9c-efd5-4a45-9785-da67067d5127",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "ICU_ROOM",
       "roomNumber": 25,
       "beds": [
         {
-          "bedId": "f5a154cb-852e-4987-96fa-6a27cad3294f",
+          "bedId": "48befc70-ce6b-417a-b22c-2fe9d7379663",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "a2e90e26-18e8-4006-9042-544d790fa839",
+          "bedId": "d076dfa0-8a1a-4ae4-88ca-02cb09cef21a",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "cb90d4e0-6fc6-46b5-9024-f4e5e7aaa406",
+          "bedId": "f83cae60-647b-446a-ae3b-21dd8ee20d1b",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "2c73c5de-761c-40ec-b111-c572b030ed07",
+          "bedId": "20ee4a57-f5b8-4e9e-8de1-7b12a058a157",
           "status": "AVAILABLE",
           "patient": null
         },
         {
-          "bedId": "ae1f7e4a-d34e-41b1-8345-48f39d3482be",
+          "bedId": "282c30d8-4ba5-468d-89d0-64e4134b20ca",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "PRIVATE_ROOM",
       "roomNumber": 16,
       "beds": [
         {
-          "bedId": "b162c6b4-4938-48ef-afe2-baa7afc948e2",
-          "status": "OCCUPIED",
-          "patient": {
-            "patientId": "c4f5a3ef-b94c-4cb7-ba74-d455b64955a7",
-            "name": "coco",
-            "gender": "FEMALE",
-            "entryDate": "2025-12-12T12:56:27.076847",
-            "leaveDate": null,
-            "condition": "STABLE",
-            "wantsPrivateRoom": true,
-            "currentBedId": "b162c6b4-4938-48ef-afe2-baa7afc948e2",
-            "bedHistory": [
-              "d272ec3b-4354-4eab-b926-2c1832eff257",
-              "b162c6b4-4938-48ef-afe2-baa7afc948e2"
-            ],
-            "statusHistory": [
-              "Emergency Room",
-              "Private Room"
-            ]
-          }
+          "bedId": "a6c3b8fb-0e9e-417f-920a-d1e50f74327d",
+          "status": "AVAILABLE",
+          "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "PRIVATE_ROOM",
       "roomNumber": 17,
       "beds": [
         {
-          "bedId": "9a82be45-e699-41ef-a618-fce1aa2afa9e",
+          "bedId": "4790bbec-366c-466b-acf9-94eff248742a",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "PRIVATE_ROOM",
       "roomNumber": 18,
       "beds": [
         {
-          "bedId": "ecdbfa21-bd8f-479c-84ad-1536157d5bde",
+          "bedId": "8590af67-a6b4-422d-a92e-1df9648aa2c6",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "PRIVATE_ROOM",
       "roomNumber": 19,
       "beds": [
         {
-          "bedId": "eb5c2fa2-8365-4878-9597-e1e302e22787",
+          "bedId": "2b420bd0-44ec-4acf-98fc-c14524e8b811",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "PRIVATE_ROOM",
       "roomNumber": 20,
       "beds": [
         {
-          "bedId": "ce479b87-babb-4da4-9453-4670b33dec11",
+          "bedId": "2c874260-5781-4500-88d0-b2c0e84d64b8",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "OPERATING_ROOM",
       "roomNumber": 26,
       "beds": [
         {
-          "bedId": "fd00aa6f-1ff3-4cde-97ff-44a1f2ce50df",
+          "bedId": "c889671c-d2c6-48d9-bc34-a40628deb432",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "OPERATING_ROOM",
       "roomNumber": 27,
       "beds": [
         {
-          "bedId": "bb33342f-2540-437b-b97c-9e631e2d3a4c",
+          "bedId": "28013174-e0c6-48de-9b1d-05e2caafd7f8",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "OPERATING_ROOM",
       "roomNumber": 28,
       "beds": [
         {
-          "bedId": "6982af5b-89c8-4487-9c39-d79d3106a6b0",
+          "bedId": "0fb71c4b-cc5c-4bce-b2ac-51b4101f3802",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "OPERATING_ROOM",
       "roomNumber": 29,
       "beds": [
         {
-          "bedId": "15d23175-4d98-4ce1-9787-1f6b2fb5fbb2",
+          "bedId": "115c8e1c-026e-48a0-8a99-4bc7332751a0",
           "status": "AVAILABLE",
           "patient": null
         }
       ]
     },
     {
-      "roomId": "5d147ee4-b71f-484d-9da1-95070e640979",
+      "roomId": "1f933bbe-4ee2-4862-a581-ddaab6e5cae2",
       "roomType": "OPERATING_ROOM",
       "roomNumber": 30,
       "beds": [
         {
-          "bedId": "253498fe-eb1f-4c8c-a4e1-3eadd31ca776",
+          "bedId": "37cf3520-fc8c-4d2e-b9f2-6538ecab4087",
           "status": "AVAILABLE",
           "patient": null
         }
